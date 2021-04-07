@@ -1,2 +1,1 @@
-# Exercise-Tracker--FCC
-A FreeCodeCamp API and Microservices project to demonstrate my skills in Node.js/ Express and MongoDb
+# [Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
