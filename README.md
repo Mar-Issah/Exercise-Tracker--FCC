@@ -104,7 +104,7 @@ Distributed under the `MIT License`. See [LICENSE](https://choosealicense.com/li
 
 ## Contact :e-mail:
 
-Marsiya Issah : masy370@gmail.com
+Marsiya Issah : masy370@gmail.com.
 
 Project Link: [https://github.com/Mar-Issah/Exercise-Tracker--FCC.git](https://github.com/Mar-Issah/Exercise-Tracker--FCC.git)
 
