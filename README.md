@@ -56,7 +56,7 @@ If these commands print out a version number in the terminal, you are good to go
 ## Usage
 [Click here](https://marsiya-fcc-extracker.glitch.me) to view live demo on [Glitch](https://glitch.com/).
 
-1. The user can create a username by making a post request to the route below. The returned response will be an object with username and _id properties.
+1. The user can create a username by making a /POST request to the route below. The returned response will be an object with username and _id properties.
   ```sh
     https://marsiya-fcc-extracker.glitch.me/api/exercise/new-user
    ```
