@@ -25,7 +25,7 @@ This is a Node. js (with Express. js) and MongoDb application which is part of t
 Using it on your local machine.
 
 ### Prerequisites
-You need to have Node.js, yarn and npm installed on your machine. To check if they are installed, open up a terminal window and type the following:
+You need to have Node.js, Yarn and npm installed on your machine. To check if they are installed, open up a terminal window and type the following:
  ```sh
 npm -v
 yarn -v
