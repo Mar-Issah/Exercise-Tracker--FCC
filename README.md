@@ -60,7 +60,7 @@ If these commands print out a version number in the terminal, you are good to go
   ```sh
     https://marsiya-fcc-extracker.glitch.me/api/exercise/new-user
    ```
-2. The user can make a GET request to the route below to get an array of all users. Each element in the array is an object containing a user's username and _id.
+2. The user can make a /GET request to the route below to get an array of all users. Each element in the array is an object containing a user's username and _id.
     ```sh
     https://marsiya-fcc-extracker.glitch.me/api/exercise/users
    ```
