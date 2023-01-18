@@ -2,7 +2,7 @@
 A FreeCodeCamp APIs and Microservices project to demonstrate my skills in Node.js, Express.js and MongoDb.
 
 ## About The Project
-This is a Node. js (with Express. js) and MongoDb application which is part of the [FreeCodeCamp](https://www.freecodecamp.org/) Back End Certification. Exercise tracker is a web application which allows a user to create and store username and exercises (description, duration and date).
+This is a Node. js (with Express. js) and MongoDb application which is part of the [FreeCodeCamp](https://www.freecodecamp.org/) Back End Certification. Exercise tracker is a web application which allows a user to create and store their username and exercises (description, duration and date).
 
 ![Exercise Tracker](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617817803/My%20Website%20Projects/ex_tracker_rflftm.png)
 
