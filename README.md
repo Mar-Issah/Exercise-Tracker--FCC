@@ -22,7 +22,7 @@ This is a Node. js (with Express. js) and MongoDb application which is part of t
 <!-- GETTING STARTED -->
 
 ## Getting Started
-How to use it your local machine.
+How to use it on your local machine.
 
 ### Prerequisites
 You need to have Node.js, Yarn and NPM installed on your machine. To check if they are installed, open up a terminal window and type the following command for each
